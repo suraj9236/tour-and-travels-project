@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+    
+}
+
+.nav1{
+    display: flex;
+    width: 100%;
+    height:18%;
+    position: relative;
+    justify-content:space-between;
+    /* border-bottom: 1px solid rgba(90, 81, 81, 0.589); */
+
+}
